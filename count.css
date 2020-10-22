@@ -1,0 +1,36 @@
+.count
+{
+
+
+    width: inherit;
+    height: 300px;
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ele{
+top: 50px;
+margin-top: 30px;
+ width: 250px;
+ height: 250px;
+ border-radius: 250px;
+ background-color: aliceblue;   
+ 
+}
+.ctex{
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: space-between;
+width: inherit;
+height: 80px;
+color: mediumseagreen;
+font-size: 30px;
+}
+.ele h1{
+
+   
+    align-content: center;
+    margin-top: 42%;
+    margin-left:41% ;
+}

@@ -1,0 +1,1 @@
+document.getElementById("ncrop").innerHTML ="2";
